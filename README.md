@@ -1,2 +1,14 @@
 # dj-shop
-backend e-commerce site with strapi
+ecommecre web site devloper par #djellal-Ramzi
+
+Font-end
+html5
+css3
+material ui
+React
+
+Backend 
+strapi 
+
+
+
